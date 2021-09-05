@@ -8,8 +8,8 @@ Data exploration and analysis on Income Inequality using World Income Inequality
 
 ## OLS
 
-**Project 1 - Data Analysis and Predicting Energy Levels in Spotify - Group Project**<br />  
-Data exploration on spotify data set and predcting energy levels in music in top hits.<br />  
+**Project 1 - Data Analysis and Predicting Energy Levels in Spotify - Group Project**<br />
+Data exploration on spotify data set and predcting energy levels in music in top hits.<br />
 [Project Summary Link  /](https://github.com/treshanwaas/Spofity--Predicting-Energy-Levels-using-OLS-and-Random-Forest/blob/main/Summary%20Paper.pdf)
 [Project Report Link  /](https://github.com/treshanwaas/Spofity--Predicting-Energy-Levels-using-OLS-and-Random-Forest/blob/59321234297b5cc7990085c4547539842fda21f8/Project%20Report.pdf)
 [Repository Link](https://github.com/treshanwaas/Spofity--Predicting-Energy-Levels-using-OLS-and-Random-Forest)
@@ -17,8 +17,8 @@ Data exploration on spotify data set and predcting energy levels in music in top
 
 ## Logistic Regression
 
-**Project 1 - Predicting Survival in Titanic using Logistic Regression**<br />  
-Data modelling to predict survival using Titanic Data Set <br /> 
+**Project 1 - Predicting Survival in Titanic using Logistic Regression**<br />
+Data modelling to predict survival using Titanic Data Set <br />
 [Repository Link](https://github.com/treshanwaas/Logistic-Regression-Titanic-Dataset)
 
 
