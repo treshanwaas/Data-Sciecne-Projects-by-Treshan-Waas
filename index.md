@@ -1,3 +1,13 @@
+## Data Exploration Projects 
+
+Data analysis on income inequality - 
+Data exploration and analysis on Income Inequality using World Income Inequality Database (WIID)
+[Project Report](https://treshanwaas.github.io/ANALYSIS-ON-INCOME-INEQUALITY/)
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/treshanwaas/Project-Summary-/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
