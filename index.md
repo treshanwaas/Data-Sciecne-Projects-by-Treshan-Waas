@@ -1,4 +1,4 @@
-## Data Exploration Projects
+## Data Exploration
 
 **Project 1 - Data analysis on income inequality - Group Project**<br /> 
 Data exploration and analysis on Income Inequality using World Income Inequality Database (WIID)<br />
