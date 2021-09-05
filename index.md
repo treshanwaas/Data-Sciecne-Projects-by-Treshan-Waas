@@ -1,11 +1,15 @@
-## Data Exploration Projects 
+# DS111
 
-#### Data analysis on income inequality - Group Project 
+# **Data Exploration Projects**
+
+
+
+## Data analysis on income inequality - Group Project 
 Data exploration and analysis on Income Inequality using World Income Inequality Database (WIID)
 
-[Project Summary](https://treshanwaas.github.io/ANALYSIS-ON-INCOME-INEQUALITY/)
+[Project Summary Link](https://treshanwaas.github.io/ANALYSIS-ON-INCOME-INEQUALITY/)
 
-[Project Report](https://github.com/treshanwaas/ANALYSIS-ON-INCOME-INEQUALITY/blob/d99d57a5413c2be882b85afe4f6edf7dcf752c52/Report%20on%20World%20Income%20Inequality.pdf)
+[Project Report Link](https://github.com/treshanwaas/ANALYSIS-ON-INCOME-INEQUALITY/blob/d99d57a5413c2be882b85afe4f6edf7dcf752c52/Report%20on%20World%20Income%20Inequality.pdf)
 
 
 
