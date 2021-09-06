@@ -21,6 +21,11 @@ Data exploration on spotify data set and predcting energy levels in music in top
 Data modelling to predict survival using Titanic Data Set <br />
 [Repository Link](https://github.com/treshanwaas/Logistic-Regression-Titanic-Dataset)
 
+<br />
+<br />
+<br />
+<br />
+<br />
 
 **[LinkedIn Profile](https://www.linkedin.com/in/treshan-waas-939968100/)**
 
