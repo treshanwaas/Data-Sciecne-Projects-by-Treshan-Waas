@@ -1,4 +1,3 @@
-# Data Science Projects by Treshan Waas
 **[LinkedIn Profile](https://www.linkedin.com/in/treshan-waas-939968100/)**
 
 
