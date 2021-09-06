@@ -1,6 +1,3 @@
-**[LinkedIn Profile](https://www.linkedin.com/in/treshan-waas-939968100/)**
-
-
 ## Data Exploration
 
 **Data analysis on income inequality - Group Project**<br /> 
@@ -25,7 +22,7 @@ Data modelling to predict survival using Titanic Data Set <br />
 [Repository Link](https://github.com/treshanwaas/Logistic-Regression-Titanic-Dataset)
 
 
-
+**[LinkedIn Profile](https://www.linkedin.com/in/treshan-waas-939968100/)**
 
 
 
