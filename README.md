@@ -26,5 +26,4 @@ Data modelling to predict survival using Titanic Data Set <br />
 [Repository Link](https://github.com/treshanwaas/Logistic-Regression-Titanic-Dataset)
 
 <br />
-<br />
 # **[LinkedIn Profile](https://www.linkedin.com/in/treshan-waas-939968100/)**
