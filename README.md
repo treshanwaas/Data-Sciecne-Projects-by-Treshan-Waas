@@ -1,7 +1,3 @@
----
-title: treshandsd
----
-
 ## Data Exploration
 
 **Data analysis on income inequality - Group Project**<br /> 
