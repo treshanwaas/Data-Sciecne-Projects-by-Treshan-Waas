@@ -1,6 +1,4 @@
 # Data Science Projects by Treshan Waas
-![31901847_1828326373855795_5813370846546231296_n](https://user-images.githubusercontent.com/73985225/132145191-22baaa2b-b2c7-4570-a653-8b863c096c8c.jpg)
-
 **[LinkedIn Profile](https://www.linkedin.com/in/treshan-waas-939968100/)**
 
 
