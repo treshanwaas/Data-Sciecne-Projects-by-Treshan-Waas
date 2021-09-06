@@ -1,6 +1,6 @@
----
+
 Data-Sciecne Projects by Treshan Waas
----
+
 ## Data Exploration
 
 **Data analysis on income inequality - Group Project**<br /> 
