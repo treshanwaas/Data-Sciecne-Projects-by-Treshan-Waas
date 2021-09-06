@@ -23,11 +23,7 @@ Data modelling to predict survival using Titanic Data Set <br />
 
 <br />
 <br />
-<br />
-<br />
-<br />
-
-**[LinkedIn Profile](https://www.linkedin.com/in/treshan-waas-939968100/)**
+# **[LinkedIn Profile](https://www.linkedin.com/in/treshan-waas-939968100/)**
 
 
 
