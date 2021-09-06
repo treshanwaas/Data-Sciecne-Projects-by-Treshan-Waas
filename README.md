@@ -1,5 +1,5 @@
 ---
-title:  Data-Sciecne Projects by Treshan Waas
+Data-Sciecne Projects by Treshan Waas
 ---
 ## Data Exploration
 
