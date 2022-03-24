@@ -10,7 +10,7 @@ This 16 day-long Online Datathon (September 30 - October 16) with the Master of 
 
 ## Machine Learning - KNN, Random Forest, Lienar SVM, Voting Classifier 
 
-**Predicting Bean Types from Defining Features Using Various Machine Learning Techniques**
+**Predicting Bean Types from Defining Features Using Various Machine Learning Techniques**<br /> 
 The dry bean dataset is a popular open-source dataset available for users to experiment machine learning models. The dataset consists of seven types of dry beans recorded with its characteristics such as shape structure etc. Computer aided images were used of 13,611 grains and 16 features were recorded classifying the type of the bean. The objective of our analysis was to build, train, test and evaluate the performance of multiple machine learning models to determine the most effective model for our dataset.<br/>
 [Project Summary Link /](https://github.com/treshanwaas/Machine-learning---Project-Dry-Beans-/blob/main/Summary%20paper.docx)
 [Project Report Link /](https://github.com/treshanwaas/Machine-learning---Project-Dry-Beans-/blob/main/group7_paper.docx)
