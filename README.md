@@ -16,6 +16,10 @@ The dry bean dataset is a popular open-source dataset available for users to exp
 [Project Report Link /](https://github.com/treshanwaas/Machine-learning---Project-Dry-Beans-/blob/main/group7_paper.docx)
 [Repository Link](https://github.com/treshanwaas/Machine-learning---Project-Dry-Beans-)
 
+## Kmeans using Databricks 
+
+**Clustering tweets using Kmeans on Databricks**<br />
+[Published link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6350142479045247/4329191419357043/1878994297962966/latest.html)
 ## Data Exploration
 
 **Data analysis on income inequality - Group Project**<br /> 
@@ -41,12 +45,7 @@ Data modelling to predict survival using Titanic Data Set <br />
 
 ## XGBoost and Random Forest 
 
-**Predition Heart rate using XGboost and Random Forest** 
+**Predicting Heart rate using XGboost and Random Forest**<br /> 
 [Repository Link](https://github.com/treshanwaas/Predicting-Heart-rate)
-
-## Kmeans using Databricks 
-
-**Clustering tweets using Kmeans on Databricks  ** 
-[Published link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6350142479045247/4329191419357043/1878994297962966/latest.html)
 
 ## **[LinkedIn Profile](https://www.linkedin.com/in/treshan-waas-939968100/)**
