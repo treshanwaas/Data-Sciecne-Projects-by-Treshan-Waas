@@ -20,6 +20,7 @@ The dry bean dataset is a popular open-source dataset available for users to exp
 
 **Clustering tweets using Kmeans on Databricks**<br />
 [Published link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6350142479045247/4329191419357043/1878994297962966/latest.html)
+[Project Summary Link  /](https://github.com/treshanwaas/Tweet-clustering-on-Databricks/blob/main/Group%2012%20-%20Summary%20-%20Twitter%20Topic%20Models%20Using%20Databricks%20Pyspark%20ML.docx)
 ## Data Exploration
 
 **Data analysis on income inequality - Group Project**<br /> 
