@@ -50,3 +50,6 @@ Data modelling to predict survival using Titanic Data Set <br />
 [Repository Link](https://github.com/treshanwaas/Predicting-Heart-rate)
 
 ## **[LinkedIn Profile](https://www.linkedin.com/in/treshan-waas-939968100/)**
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="treshanwaas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/treshanwaas?trk=profile-badge">Treshan Waas</a></div>
+              
